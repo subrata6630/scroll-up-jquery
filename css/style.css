@@ -1,0 +1,15 @@
+/* Tab style */
+#scrollUp {
+	background: url("../img/top.png");
+	background-repeat: no-repeat;
+	bottom: 9px;
+	display: block;
+	height: 38px;
+	right: 12px;
+	width: 40px;
+	outline: medium none;
+}
+
+#scrollUp:hover {
+    margin-bottom: 0;
+}
